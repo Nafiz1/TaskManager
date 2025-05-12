@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Compile Include=".github\workflows\dotnet.yml" />
-    <Compile Include="Azure-pipelines.yml" />
   </ItemGroup>
 
   <ItemGroup>
